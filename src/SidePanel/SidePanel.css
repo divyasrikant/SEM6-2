@@ -1,0 +1,8 @@
+.p-sidepanel{
+    box-shadow:0px 0px 1px rgba(0,0,0,0.2);
+    text-align: center;
+    font-size: 15px;
+    padding: 20px;    
+    color:#7E7E7E;
+    margin:0px
+}

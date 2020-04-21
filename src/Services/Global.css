@@ -1,0 +1,45 @@
+.t-container {
+    border-collapse: collapse;
+    margin: 25px 0;      
+}
+
+.left,
+.right {
+    float: left; 
+    background-color: #f1f0f0;
+    margin: 25px 0;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    overflow: hidden;
+    padding: 12px 15px;
+}
+
+.left th,
+.right th
+{
+    border-bottom: 1.5px solid black;
+    border-radius: 5px 5px 0 0;
+    background-color: #dbdbdb;
+    text-align: center;
+    font-weight: bold;
+    font-size: 0.5cm;
+    padding: 8px 15px;
+}
+
+.left td,
+.right td {
+    min-width: 200px;
+    padding: 12px 15px;
+    border-bottom: 1px solid #dbdbdb;
+    text-align: left;
+}
+
+/* .right {
+    float: left; 
+    background-color: #f1f0f0;
+    margin: 25px 0;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    overflow: hidden;
+    padding: 12px 15px;
+} */

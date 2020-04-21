@@ -1,0 +1,10 @@
+.app {
+  display: flex;
+  flex-direction:row ;
+  margin-left: 0px;
+}
+img{
+  height:120px;
+  width: 150px;
+  
+}
