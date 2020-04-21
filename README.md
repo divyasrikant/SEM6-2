@@ -1,2 +1,2 @@
-# SEM6-2
+# SEM6
  Airport Facility Utilization
